@@ -1,0 +1,127 @@
+/* Projects Page */
+.projects-page {
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.section-title h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.section-title h2 span {
+    color: var(--main-color);
+}
+
+.filter-buttons {
+    margin-bottom: 30px;
+}
+
+.btn-filter {
+    margin: 5px;
+    background: rgba(100, 255, 218, 0.1);
+    border: 1px solid var(--main-color);
+    color: var(--main-color);
+    transition: all 0.3s;
+}
+
+.btn-filter.active, .btn-filter:hover {
+    background: var(--main-color);
+    color: #fff;
+}
+
+.project-item {
+    background: rgba(100, 255, 218, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    will-change: transform, box-shadow;
+}
+
+.project-item:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 15px rgba(100, 255, 218, 0.3);
+}
+
+.project-item h3 {
+    margin: 0;
+    font-size: 24px;
+    color: var(--main-color);
+    display: flex;
+    align-items: center;
+}
+
+.project-item h3 i {
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+.project-item p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.project-item .btn-1 {
+    margin-top: 10px;
+    background: var(--main-color);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.project-item .btn-1:hover {
+    background: rgba(100, 255, 218, 0.8);
+}
+
+/* Dark Mode */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode .project-item {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .project-item:hover {
+    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .projects-page {
+        padding: 50px 10px;
+    }
+
+    .project-item {
+        padding: 15px;
+    }
+
+    .project-item h3 {
+        font-size: 20px;
+    }
+
+    .project-item p {
+        font-size: 14px;
+    }
+}
+
+/* Print Styles */
+@media print {
+    .header-area, .footer, .filter-buttons {
+        display: none;
+    }
+
+    .projects-page {
+        padding: 0;
+    }
+
+    .project-item {
+        background: none;
+        border: 1px solid #000;
+        box-shadow: none;
+    }
+}

@@ -1,0 +1,78 @@
+/* About Page */
+.about-page {
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.about-content {
+    text-align: left;
+}
+
+.about-content h3 {
+    font-size: 28px;
+    color: var(--white);
+    margin-bottom: 20px;
+}
+
+.about-content h3 span {
+    color: var(--main-color);
+}
+
+.about-content p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--white);
+    margin-bottom: 20px;
+}
+
+.about-info {
+    list-style: none;
+    padding: 0;
+}
+
+.about-info li {
+    margin-bottom: 15px;
+}
+
+.single-info {
+    display: flex;
+    align-items: center;
+}
+
+.info-icon {
+    width: 40px;
+    height: 40px;
+    background-color: var(--main-color);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.info-icon i {
+    color: var(--black100);
+    font-size: 16px;
+}
+
+.info-text p {
+    margin: 0;
+    font-size: 16px;
+    color: var(--white);
+}
+
+.info-text p span {
+    font-weight: 600;
+    color: var(--main-color);
+}
+
+.about-image img {
+    border-radius: 10px;
+    box-shadow: var(--shadow-black300);
+    max-width: 100%;
+    height: auto;
+}
+
+.btn-1 {
+    margin-top: 20px;
+}
