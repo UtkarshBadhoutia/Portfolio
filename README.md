@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and services in web development.
 
-## 🌐 Live Demo
+## 🌐 Demo
 [![Portfolio Website](images/preview.png)](https://utkarshbadhoutia.github.io/Portfolio/)
 
 
@@ -26,7 +26,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 │── index.html         # Main HTML file
 │── /css               # Stylesheets
 │── /js                # JavaScript files
-│── /assets            # Images, icons, and other assets
+│── /images            # Images, icons, and other assets
 │── README.md          # Project documentation
 ```
 
