@@ -39,8 +39,8 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 📬 Contact
 If you have any suggestions or feedback, feel free to reach out!
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [your-linkedin-profile]
+- **Email:** [utkarshbadhoutia@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/utkarsh-badhoutia-b3a588174/]
 - **GitHub:** [UtkarshBadhoutia](https://github.com/UtkarshBadhoutia)
 
 ---
