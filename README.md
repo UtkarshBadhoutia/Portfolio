@@ -3,6 +3,8 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and services in web development.
 
 ## 🌐 Live Demo
+[![Portfolio Website](https://via.placeholder.com/1200x630.png?text=Portfolio+Website+Preview)](https://utkarshbadhoutia.github.io/Portfolio/)
+
 [Click here to visit](https://utkarshbadhoutia.github.io/Portfolio/)
 
 ## 📌 Features
@@ -36,8 +38,8 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 📬 Contact
 If you have any suggestions or feedback, feel free to reach out!
-- **Email:** utkarshbadhoutia@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/utkarsh-badhoutia-b3a588174/]
+- **Email:** [your-email@example.com]
+- **LinkedIn:** [your-linkedin-profile]
 - **GitHub:** [UtkarshBadhoutia](https://github.com/UtkarshBadhoutia)
 
 ---
