@@ -11,7 +11,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## 📌 Features
 - Fully responsive design
 - Animated UI with 3D effects
-- Sections: Home, About, Skills, Services, Projects, Contact
+- Sections: Home, About, Skills, Projects, Contact
 - Professional color scheme
 - Custom favicon with initials 'U' and 'B'
 
@@ -26,7 +26,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 │── index.html         # Main HTML file
 │── /css               # Stylesheets
 │── /js                # JavaScript files
-│── /images            # Images, icons, and other assets
+│── /images            # Images, icons
 │── README.md          # Project documentation
 ```
 
