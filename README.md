@@ -3,7 +3,8 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and services in web development.
 
 ## 🌐 Live Demo
-[![Portfolio Website](https://via.placeholder.com/1200x630.png?text=Portfolio+Website+Preview)](https://utkarshbadhoutia.github.io/Portfolio/)
+[![Portfolio Website](images/preview.png)](https://utkarshbadhoutia.github.io/Portfolio/)
+
 
 [Click here to visit](https://utkarshbadhoutia.github.io/Portfolio/)
 
